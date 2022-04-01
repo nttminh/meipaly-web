@@ -1,7 +1,17 @@
-# meipaly-web
-A project to pracice cloning skill
+# Meipaly Clone
 
-Mobile responsiveness not required
+## Minh Nguyen
+
+**Meipaly clone** displays the showcase and blog posts of the Meipaly company
+
+Time spent: 4.5 hours spent in total
+
+## Functionality
+
+The following **required** functionality is completed:
+
+-   [ ] Ability use plain HTML & CSS to finish the work
+-   [ ] Apply filter on image with out changing the original image file
 
 # Full size screenshot
 
