@@ -3,6 +3,7 @@
 ## Minh Nguyen
 
 **Meipaly clone** displays the showcase and blog posts of the Meipaly company
+Demo: https://meipaly-nttminh.vercel.app/
 
 Time spent: 4.5 hours spent in total
 
